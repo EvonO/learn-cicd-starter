@@ -19,4 +19,4 @@ jobs:
           go-version: "1.27.1"
 
       - name: Force Failure
-        run: Set up Go
+        run: go version
